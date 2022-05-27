@@ -1,0 +1,22 @@
+{
+    "animations": [{
+        "name": "Eg zu UG",
+        "property": "position",
+        "framePerSecond": 60,
+        "dataType": 1,
+        "loopBehavior": 2,
+        "blendingSpeed": 0.01,
+        "keys": [{
+            "frame": 0,
+            "values": [6.47, -3.54, -3.25, [0, 0, 0],
+                [0, 0, 0]
+            ]
+        }, {
+            "frame": 130,
+            "values": [6.47, -6.83, -3.24, [0, 0, 0],
+                [0, 0, 0]
+            ]
+        }],
+        "ranges": []
+    }]
+}
